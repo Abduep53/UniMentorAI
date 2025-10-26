@@ -1,0 +1,282 @@
+UniMentorAI Brand Kit
+=====================
+
+BRAND OVERVIEW
+
+UniMentorAI by Neuro is a sophisticated, trustworthy, and innovative platform that combines the power of artificial intelligence with human-centered design to help students achieve their university admission goals.
+
+BRAND POSITIONING
+
+Premium, intelligent, and accessible. We are the trusted AI companion for students navigating the complex world of international university admissions.
+
+BRAND PERSONALITY
+
+- Intelligent: AI-powered solutions that think
+- Trustworthy: Transparent, honest, reliable
+- Empowering: Helping students achieve their dreams
+- Global: Serving students worldwide
+- Professional: Serious about education and success
+
+CORE VALUES
+
+1. Integrity: Honest guidance, no false promises
+2. Empowerment: Tools for informed decisions
+3. Innovation: Cutting-edge AI technology
+4. Inclusivity: Accessible to all backgrounds
+5. Excellence: Continuous improvement and quality
+
+LOGO USAGE
+
+Primary Logo: UniMentorAI by Neuro
+- Graduation cap icon + text
+- Use on light backgrounds
+- Minimum size: 100px height
+- Clear space: 2x icon height on all sides
+
+Color Variations:
+- Full color (default)
+- Solid blue (#2563EB)
+- White (on dark backgrounds)
+- Monochrome (single color)
+
+Logo Don'ts:
+❌ Do not distort or stretch
+❌ Do not change colors arbitrarily
+❌ Do not rotate or tilt
+❌ Do not add effects or outlines
+❌ Do not place on busy backgrounds
+
+COLOR PALETTE
+
+Primary Blue: #2563EB
+- Main brand color
+- Use for CTAs, links, emphasis
+- Hex: #2563EB
+- RGB: (37, 99, 235)
+
+Accent Blue: #3B82F6
+- Secondary actions
+- Supporting elements
+- Hex: #3B82F6
+- RGB: (59, 130, 246)
+
+Success Green: #10B981
+- Positive indicators
+- Success messages
+- Hex: #10B981
+- RGB: (16, 185, 129)
+
+Warning Orange: #F59E0B
+- Warnings, cautions
+- Important notices
+- Hex: #F59E0B
+- RGB: (245, 158, 11)
+
+Neutral Grays:
+- Light: #F9FAFB (backgrounds)
+- Medium: #6B7280 (text)
+- Dark: #111827 (headings)
+
+TYPOGRAPHY
+
+Primary Font: Inter
+- Usage: Headlines, body text, UI elements
+- Weights: 300, 400, 500, 600, 700, 800
+- Source: Google Fonts
+
+Heading Sizes:
+- H1: 3.75rem (60px) / Inter Bold (700)
+- H2: 3rem (48px) / Inter SemiBold (600)
+- H3: 2rem (32px) / Inter SemiBold (600)
+- H4: 1.5rem (24px) / Inter Medium (500)
+
+Body Text:
+- Large: 1.125rem (18px) / Inter Regular (400)
+- Standard: 1rem (16px) / Inter Regular (400)
+- Small: 0.875rem (14px) / Inter Regular (400)
+
+VOICE & TONE
+
+Professional yet approachable, confident but not arrogant, helpful without being condescending.
+
+Guidelines:
+✓ Use "you" to speak directly to students
+✓ Be clear and concise
+✓ Provide actionable advice
+✓ Celebrate achievements
+✓ Acknowledge challenges
+✓ Use data to support claims
+✓ Avoid jargon when possible
+✓ Maintain humility about AI limitations
+
+Tone Examples:
+
+Greeting:
+"Welcome to UniMentorAI! Let's find your perfect university match."
+
+Guidance:
+"Our AI analyzes your profile to recommend the best-fit universities based on your academic performance, interests, and goals."
+
+Transparency:
+"Important: Our predictions are probabilistic estimates based on historical data. Admission decisions rest with universities."
+
+Empowerment:
+"You've built a strong profile. Here's how to make it even stronger."
+
+IMAGERY STYLE
+
+Photography:
+- Authentic, diverse students
+- Professional but relatable
+- Bright, optimistic lighting
+- Global and inclusive
+
+Illustrations:
+- Clean, modern geometric shapes
+- Gradient accents (blue to purple)
+- Abstract representations of success
+- Tech-forward but human-centered
+
+Icons:
+- Line style, consistent weight
+- Simple and recognizable
+- Font Awesome brand set
+- Custom where needed
+
+KEY MESSAGES
+
+Headline:
+"Your Gateway to Top Universities Worldwide"
+
+Tagline:
+"AI-Powered University Matching for Global Students"
+
+Value Proposition:
+"Personalized university recommendations powered by advanced AI. 15,000+ students across 15+ countries trust UniMentorAI to guide their university journey."
+
+Differentiators:
+- "Six AI tools working together"
+- "1,500+ universities, 115+ countries"
+- "95% accuracy in admission predictions"
+- "Guidance you can trust, not promises we can't keep"
+
+SOCIAL MEDIA GUIDELINES
+
+Platforms:
+- LinkedIn: Professional updates, case studies
+- Instagram: Visual content, student stories
+- Telegram: Community engagement, quick tips
+
+Content Mix:
+- 40% Educational (tips, insights)
+- 30% Product features
+- 20% Success stories
+- 10% Behind the scenes
+
+Post Frequency:
+- LinkedIn: 3-4 times per week
+- Instagram: Daily
+- Telegram: As needed
+
+HASHTAGS
+
+Primary:
+#UniMentorAI #UniversityMatching #AIinEducation
+
+Secondary:
+#InternationalStudents #StudyAbroad #UniversityAdmission
+#CollegeApplications #EducationAI #ScholarshipSearch
+
+Industry:
+#EducationTech #EdTech #AIforEducation #HigherEducation
+
+USAGE EXAMPLES
+
+Email Signature:
+----
+UniMentorAI by Neuro
+AI-Powered University Matching
+
+unimentorai.com | neuroleague.ai@gmail.com
+----
+
+Email Template:
+----
+Subject: [Action Required] Complete Your University Profile
+
+Hi [Name],
+
+You're one step closer to finding your perfect university match.
+
+Complete your profile to unlock:
+• Personalized university recommendations
+• Admission probability predictions
+• Essay improvement suggestions
+
+[Button: Complete Profile]
+
+Best regards,
+The UniMentorAI Team
+----
+
+Press Release Headline:
+"UniMentorAI Surpasses 15,000 Users, Expands to 15+ Countries with AI-Powered University Matching Platform"
+
+CONTACT INFORMATION
+
+General Inquiries:
+- Email: neuroleague.ai@gmail.com
+- Phone: +998 77 777 96 97
+- Address: Toshkoʻcha koʻchasi, 159A, Tashkent, Uzbekistan
+
+Media Contact:
+- Email: press@unimentorai.com
+- Website: unimentorai.com/press
+
+Support:
+- Email: support@unimentorai.com
+- Hours: Monday-Friday, 9 AM - 5 PM GMT
+
+BRAND DOS AND DON'TS
+
+DO:
+✓ Use official logo and colors
+✓ Maintain professional tone
+✓ Highlight achievements with data
+✓ Be transparent about limitations
+✓ Celebrate student success
+✓ Respect user privacy
+
+DON'T:
+✗ Make guarantees we can't keep
+✗ Use misleading statistics
+✗ Overstate AI capabilities
+✗ Ignore user feedback
+✗ Violate privacy standards
+✗ Compromise on quality
+
+ASSETS NEEDED
+
+Please create or provide:
+- Logo files (SVG, PNG, multiple sizes)
+- Color palette swatches
+- Typography samples
+- Icon set (Font Awesome or custom)
+- Illustration style guide
+- Photography style guide
+- Social media templates
+- Email templates
+- Presentation templates
+
+QUESTIONS?
+
+Contact for brand usage approval, asset requests, or brand guidelines:
+- Email: brand@unimentorai.com
+- Website: unimentorai.com/brand
+
+---
+
+Version: 1.0
+Last Updated: January 2025
+Owner: Neuro League Brand Team
+

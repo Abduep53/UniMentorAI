@@ -1,0 +1,23 @@
+UniMentorAI Live Demo
+=====================
+
+ACCESS INSTRUCTIONS:
+
+1. Visit the live demo at: https://unimentorai.com
+2. Create a profile or use guest mode to explore features
+3. Try the AI University Matcher to see personalized recommendations
+4. Explore the Essay Assistant for writing guidance
+5. Use the Admission Predictor to calculate admission chances
+
+FEATURES TO DEMONSTRATE:
+- AI University Matcher (full profile creation)
+- Essay Assistant (sample essay analysis)
+- Admission Predictor (calculate admission probabilities)
+- University Database (browse 1,500+ universities)
+- Rankings (QS, Times Higher Education, U.S. News)
+
+CONTACT:
+- Website: https://unimentorai.com
+- Email: neuroleague.ai@gmail.com
+- For partnership inquiries, contact the team directly through the website
+
