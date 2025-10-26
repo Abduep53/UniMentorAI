@@ -294,23 +294,6 @@ Your data is safe
    - Admission Predictor for chances
    - Scholarship Finder for opportunities
 
-### Local Development
-
-```bash
-# Clone the repository
-git clone https://github.com/neuroleague/unimentorai.git
-cd unimentorai
-
-# Serve locally
-python -m http.server 8000
-
-# Or with Node.js
-npx serve .
-
-# Open in browser
-open http://localhost:8000
-```
-
 ---
 
 ## 🎨 Design System
@@ -344,27 +327,6 @@ Error Red
 - **Scale**: 0.75rem to 3.75rem
 - **Line Height**: 1.5
 - **Responsive**: Mobile-first design
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how:
-
-1. 🍴 Fork the repository
-2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🎯 Open a Pull Request
-
-### Development Setup
-
-```bash
-git clone https://github.com/neuroleague/unimentorai.git
-cd unimentorai
-npm install
-npm run dev
-```
 
 ---
 
